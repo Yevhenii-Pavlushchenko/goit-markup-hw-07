@@ -134,7 +134,7 @@ input {
 
 /* footer */
 
-.footer-container>.container {
+.footer-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
